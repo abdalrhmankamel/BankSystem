@@ -1,0 +1,57 @@
+﻿  level 11.cpp
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(175,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'level%2011.cpp')
+      C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(28,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(50,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(189,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'level%2011.cpp')
+      C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(25,9):
+      see declaration of 'clsBankClient::stTransferLogRegister'
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(361,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(373,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsTotalBalanceScreen.h(49,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsAddUserScreen.h(119,17): warning C4129: 'L': unrecognized character escape sequence
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUpdateUserScreen.h(116,17): warning C4129: 'L': unrecognized character escape sequence
+  (compiling source file 'level%2011.cpp')
+  
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(265,1): warning C4715: 'clsUser::Find': not all control paths return a value
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsLoginScreen.h(47,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(318,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsBankClient.h(256,1): warning C4715: 'clsBankClient::Find': not all control paths return a value
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(306,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Dell\source\repos\C++\level 11\level 11\clsUser.h(244,1): warning C4715: 'clsUser::Find': not all control paths return a value
+  level 11.vcxproj -> C:\Users\Dell\source\repos\C++\level 11\x64\Debug\level 11.exe
